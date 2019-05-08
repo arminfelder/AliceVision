@@ -257,7 +257,7 @@ Linux compilation
 
 ### Setup the required external library.
 
-* `sudo apt-get install libpng-dev libjpeg-dev libtiff-dev libxxf86vm1 libxxf86vm-dev libxi-dev libxrandr-dev`
+* `sudo apt-get install libpng-dev libjpeg-dev libtiff-dev libxxf86vm1 libxxf86vm-dev libxi-dev libxrandr-dev libopenimageio-dev`
 
 * If you want see the view graph svg logs
   `sudo apt-get install graphviz`
